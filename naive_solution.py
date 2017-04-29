@@ -1,4 +1,4 @@
-#attempt at a matrix multiply algorithm
+#a matrix multiplication algorithm
 import randMatrix
 
 def initC(n):
